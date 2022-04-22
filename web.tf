@@ -107,3 +107,9 @@ resource "aws_s3_bucket" "example" {
 
   # ... other configuration ...
 }
+
+resource "aws_s3_bucket" "example22" {
+  bucket = "omar83483y3"
+
+  # ... other configuration ...
+}
